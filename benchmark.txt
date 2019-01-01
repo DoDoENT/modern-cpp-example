@@ -1,3 +1,9 @@
+Test system: 
+MacBook Pro (15-inch, 2016)
+CPU: 2,9 GHz Intel Core i7
+Memory: 16 GB 2133 MHz LPDDR3
+1 TB SSD
+
 Old Way:
 
 Time to create: 10.0176 s
@@ -18,6 +24,8 @@ Time to sum areas: 0.585841 s
 Time to clear both vectors: 15.7808 s
 Total program execution time: 33.9614 s
 
+Peak memory: ~4.5 GB
+
 New way:
 
 Time to create: 5.06994 s
@@ -37,3 +45,5 @@ Time to copy: 0.870505 s
 Time to sum areas: 0.816057 s
 Time to clear both vectors: 8.1e-08 s
 Total program execution time: 6.87014 s
+
+Peak memory: ~2.2 GB
