@@ -1,0 +1,39 @@
+Old Way:
+
+Time to create: 10.0176 s
+Time to copy: 7.29186 s
+Time to sum areas: 0.583817 s
+Time to clear both vectors: 15.8191 s
+Total program execution time: 33.7124 s
+
+Time to create: 10.1956 s
+Time to copy: 7.48771 s
+Time to sum areas: 0.60122 s
+Time to clear both vectors: 15.5581 s
+Total program execution time: 33.8427 s
+
+Time to create: 10.3106 s
+Time to copy: 7.28398 s
+Time to sum areas: 0.585841 s
+Time to clear both vectors: 15.7808 s
+Total program execution time: 33.9614 s
+
+New way:
+
+Time to create: 5.06994 s
+Time to copy: 1.01869 s
+Time to sum areas: 0.850746 s
+Time to clear both vectors: 4.5e-08 s
+Total program execution time: 6.93948 s
+
+Time to create: 5.24399 s
+Time to copy: 0.865334 s
+Time to sum areas: 0.773987 s
+Time to clear both vectors: 4.6e-08 s
+Total program execution time: 6.88347 s
+
+Time to create: 5.18345 s
+Time to copy: 0.870505 s
+Time to sum areas: 0.816057 s
+Time to clear both vectors: 8.1e-08 s
+Total program execution time: 6.87014 s
