@@ -46,4 +46,4 @@ Time to sum areas: 0.816057 s
 Time to clear both vectors: 8.1e-08 s
 Total program execution time: 6.87014 s
 
-Peak memory: ~2.2 GB
+Peak memory: ~2.4 GB
