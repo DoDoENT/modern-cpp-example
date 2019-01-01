@@ -7,9 +7,9 @@
 float sumAreas( std::vector< Shape * > const & shapes ) noexcept
 {
     float totalArea = 0.f;
-    for ( auto && shape : shapes )
+    for ( std::vector< Shape * >::const_iterator shapeit = shapes.begin(); shapeit != shapes.end(); ++shapeit )
     {
-        totalArea += shape->area();
+        totalArea += (*shapeit)->area();
     }
     return totalArea;
 }
@@ -18,7 +18,7 @@ std::vector< Shape * > copyShapes( std::vector< Shape * > const & shapes )
 {
     std::vector< Shape * > result;
     result.reserve( shapes.size() );
-    for ( auto i = 0U; i < shapes.size(); ++i ) 
+    for ( unsigned i = 0U; i < shapes.size(); ++i ) 
     {
         result.push_back( shapes[i]->clone() );
     }
@@ -30,7 +30,7 @@ std::vector< Shape * > createShapeVector( std::size_t numShapes )
     std::vector< Shape * > result;
     result.reserve( numShapes );
     RandomShapeFactory shapeFactory;
-    for ( auto i = 0U; i < numShapes; ++i ) 
+    for ( unsigned i = 0U; i < numShapes; ++i ) 
     {
         result.push_back( shapeFactory.generateRandomShape() );
     }
@@ -39,7 +39,7 @@ std::vector< Shape * > createShapeVector( std::size_t numShapes )
 
 void clearShapes( std::vector< Shape * > & shapes ) 
 {
-    for ( auto i = 0U; i < shapes.size(); ++i ) 
+    for ( unsigned i = 0U; i < shapes.size(); ++i ) 
     {
         delete shapes[ i ];
     }
