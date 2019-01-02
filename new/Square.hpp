@@ -2,8 +2,7 @@
 
 #include "Rectangle.hpp"
 
-class Square : public Rectangle
+struct Square : public Rectangle
 {
-public:
     Square( float side ) noexcept;
 };

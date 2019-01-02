@@ -1,16 +1,11 @@
 #pragma once
 
-class Rectangle
+struct Rectangle
 {
-public:
+    float const width;
+    float const height;
+
     Rectangle( float width, float height ) noexcept;
-
-    auto width () const noexcept { return width_;  }
-    auto height() const noexcept { return height_; }
-
-private:
-    float width_;
-    float height_;
 };
 
 
