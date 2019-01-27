@@ -31,6 +31,7 @@ Za buildanje na linuxu/macosu, jednostavno pozovite `make` te ručno pokrenite �
 - [The next big Thing - Andrei Alexandrescu](https://www.youtube.com/watch?v=tcyb1lpEHm0)
 - [Klaus Iglberger: “Free Your Functions!”](https://www.youtube.com/watch?v=WLDT1lDOsb4)
 - [Ben Deane & Jason Turner “constexpr ALL the Things!”](https://www.youtube.com/watch?v=PJwd4JLYJJY)
+- [Michael Caisse: Modern C++ in Embedded Systems](https://www.youtube.com/watch?v=c9Xt6Me3mJ4&index=1&list=WL)
 
 ## Članci, knjige, ...
 
@@ -46,6 +47,7 @@ Za buildanje na linuxu/macosu, jednostavno pozovite `make` te ručno pokrenite �
 - [Meeting C++](https://www.youtube.com/channel/UCJpMLydEYA08vusDkq3FmjQ)
 - [BoostCon](https://www.youtube.com/user/BoostCon)
 - [ACCU Conference](https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw)
+- [CPPCast - the first podcast for C++ developers by C++ developers](http://cppcast.com/)
 
 ## Blogovi
 
