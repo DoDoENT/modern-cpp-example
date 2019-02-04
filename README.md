@@ -48,6 +48,7 @@ Za buildanje na linuxu/macosu, jednostavno pozovite `make` te ruƒçno pokrenite ≈
 - [BoostCon](https://www.youtube.com/user/BoostCon)
 - [ACCU Conference](https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw)
 - [CPPCast - the first podcast for C++ developers by C++ developers](http://cppcast.com/)
+- [CppLang Slack channel](https://cpplang.now.sh)
 
 ## Blogovi
 
