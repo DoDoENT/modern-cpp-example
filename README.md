@@ -32,6 +32,7 @@ Za buildanje na linuxu/macosu, jednostavno pozovite `make` te ručno pokrenite �
 - [Klaus Iglberger: “Free Your Functions!”](https://www.youtube.com/watch?v=WLDT1lDOsb4)
 - [Ben Deane & Jason Turner “constexpr ALL the Things!”](https://www.youtube.com/watch?v=PJwd4JLYJJY)
 - [Michael Caisse: Modern C++ in Embedded Systems](https://www.youtube.com/watch?v=c9Xt6Me3mJ4&index=1&list=WL)
+- [Chandler Carruth: Efficiency with Algorithms, Performance with Data Structures](https://www.youtube.com/watch?v=fHNmRkzxHWs)
 
 ## Članci, knjige, ...
 
